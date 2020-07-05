@@ -1,5 +1,5 @@
 # KnowTheWorld
-## ::Know The World:: assignment on fetch API
+::Know The World:: assignment on fetch API
 
 ### Given below is the wireframe for the assigment
 ![wireframe](https://share.balsamiq.com/c/rj7gp5QyN2YT97XhHkT3oq.png)
